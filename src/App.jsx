@@ -7,7 +7,7 @@ function App() {
     <>
     <div className='bg-gray-500 h-[100vh] w-[100vw]'>
      <h1 className="text-3xl font-bold underline">
-      Hello world!
+      Hello world again!
     </h1>
     </div>
     </>
